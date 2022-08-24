@@ -1,0 +1,6 @@
+[submodule "library-backend"]
+	path = library-backend
+	url = https://github.com/z01a/library-backend
+[submodule "library-frontend"]
+	path = library-frontend
+	url = https://github.com/z01a/library-frontend
